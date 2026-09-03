@@ -1,0 +1,51 @@
+name: Update IPO Data
+
+# Runs every 2 hours. Also lets you trigger it manually from the Actions tab.
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to push commits back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrape
+        env:
+          AUTO_COMMIT: "0"   # we commit from this workflow, not the app
+        run: |
+          python -c "
+          from scraper import run_scrape
+          r = run_scrape(per_page=50)
+          print('scrape result:', r)
+          if not r.get('ok'):
+              raise SystemExit(1)
+          "
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ipo.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(data): update ipo.json at $(date -u +%FT%TZ)"
+          git push

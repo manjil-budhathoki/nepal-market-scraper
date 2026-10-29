@@ -2,7 +2,7 @@
   {
     "closing_date": null,
     "company_name": "Appolo Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929855+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685156+00:00",
     "ipo_type": null,
     "max_units": 94000,
     "min_units": 10,
@@ -17,7 +17,7 @@
   {
     "closing_date": null,
     "company_name": "Beni Hydropower Project Limited",
-    "fetched_at": "2026-10-29T07:57:21.929801+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685108+00:00",
     "ipo_type": null,
     "max_units": 10000,
     "min_units": 10,
@@ -47,7 +47,7 @@
   {
     "closing_date": null,
     "company_name": "Bhujung Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929891+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685183+00:00",
     "ipo_type": null,
     "max_units": 50000,
     "min_units": 10,
@@ -62,7 +62,7 @@
   {
     "closing_date": null,
     "company_name": "Citizens Super 50",
-    "fetched_at": "2026-10-29T07:57:21.929566+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684857+00:00",
     "ipo_type": null,
     "max_units": 10000000,
     "min_units": 100,
@@ -77,7 +77,7 @@
   {
     "closing_date": null,
     "company_name": "Everest Colour Ltd",
-    "fetched_at": "2026-10-29T07:57:21.929712+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685033+00:00",
     "ipo_type": null,
     "max_units": 7000,
     "min_units": 10,
@@ -92,7 +92,7 @@
   {
     "closing_date": null,
     "company_name": "Garima Subarna Yojana",
-    "fetched_at": "2026-10-29T07:57:21.929807+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685114+00:00",
     "ipo_type": null,
     "max_units": 5000000,
     "min_units": 100,
@@ -107,7 +107,7 @@
   {
     "closing_date": null,
     "company_name": "Hotel Forest Inn Limited",
-    "fetched_at": "2026-10-29T07:57:21.929875+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685172+00:00",
     "ipo_type": null,
     "max_units": 200000,
     "min_units": 10,
@@ -122,7 +122,7 @@
   {
     "closing_date": null,
     "company_name": "Him Parbat Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929555+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684905+00:00",
     "ipo_type": null,
     "max_units": 10000,
     "min_units": 10,
@@ -130,14 +130,14 @@
     "price": null,
     "remarks": null,
     "source_url": "https://nepalipaisa.com/api/GetIpos",
-    "status": "open",
+    "status": "closed",
     "symbol": "HPHL",
     "units": 422500
   },
   {
     "closing_date": null,
     "company_name": "Kalanga Hydro Limited",
-    "fetched_at": "2026-10-29T07:57:21.929743+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685061+00:00",
     "ipo_type": null,
     "max_units": 20000,
     "min_units": 10,
@@ -152,7 +152,7 @@
   {
     "closing_date": null,
     "company_name": "Kalinchwok Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929838+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685141+00:00",
     "ipo_type": null,
     "max_units": 4000,
     "min_units": 10,
@@ -167,7 +167,7 @@
   {
     "closing_date": null,
     "company_name": "LS Horizon 12",
-    "fetched_at": "2026-10-29T07:57:21.929645+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684971+00:00",
     "ipo_type": null,
     "max_units": 12000000,
     "min_units": 100,
@@ -182,7 +182,7 @@
   {
     "closing_date": null,
     "company_name": "Mount Everest Power Development Limited",
-    "fetched_at": "2026-10-29T07:57:21.929699+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685023+00:00",
     "ipo_type": null,
     "max_units": 10000,
     "min_units": 10,
@@ -197,7 +197,7 @@
   {
     "closing_date": null,
     "company_name": "Muktinath Mutual Fund 2",
-    "fetched_at": "2026-10-29T07:57:21.929586+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684922+00:00",
     "ipo_type": null,
     "max_units": 10000000,
     "min_units": 100,
@@ -212,7 +212,7 @@
   {
     "closing_date": null,
     "company_name": "NIC ASIA Equity Opportunity Fund",
-    "fetched_at": "2026-10-29T07:57:21.929576+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684913+00:00",
     "ipo_type": null,
     "max_units": 10000000,
     "min_units": 100,
@@ -242,7 +242,7 @@
   {
     "closing_date": null,
     "company_name": "Palpa Cement Industries Limited",
-    "fetched_at": "2026-10-29T07:57:21.929844+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685146+00:00",
     "ipo_type": null,
     "max_units": 100000,
     "min_units": 10,
@@ -257,7 +257,7 @@
   {
     "closing_date": null,
     "company_name": "Ridge Line Energy Limited",
-    "fetched_at": "2026-10-29T07:57:21.929869+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685168+00:00",
     "ipo_type": null,
     "max_units": 50000,
     "min_units": 10,
@@ -272,7 +272,7 @@
   {
     "closing_date": null,
     "company_name": "Reliable Samriddhi Yojana 2",
-    "fetched_at": "2026-10-29T07:57:21.929651+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684977+00:00",
     "ipo_type": null,
     "max_units": 10000000,
     "min_units": 100,
@@ -287,7 +287,7 @@
   {
     "closing_date": null,
     "company_name": "Sanima Equity Fund 2",
-    "fetched_at": "2026-10-29T07:57:21.929663+00:00",
+    "fetched_at": "2026-10-29T14:59:46.684989+00:00",
     "ipo_type": null,
     "max_units": null,
     "min_units": null,
@@ -302,7 +302,7 @@
   {
     "closing_date": null,
     "company_name": "Sarvottam Paints Indutries Limited",
-    "fetched_at": "2026-10-29T07:57:21.929686+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685010+00:00",
     "ipo_type": null,
     "max_units": 5000,
     "min_units": 10,
@@ -317,7 +317,7 @@
   {
     "closing_date": null,
     "company_name": "Siddhartha Equity Fund 2",
-    "fetched_at": "2026-10-29T07:57:21.929679+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685004+00:00",
     "ipo_type": null,
     "max_units": 10000000,
     "min_units": 100,
@@ -332,7 +332,7 @@
   {
     "closing_date": null,
     "company_name": "Sanigad Hydro Limited",
-    "fetched_at": "2026-10-29T07:57:21.929780+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685088+00:00",
     "ipo_type": null,
     "max_units": 20000,
     "min_units": 10,
@@ -347,7 +347,7 @@
   {
     "closing_date": null,
     "company_name": "Shikhar Power Development Limited",
-    "fetched_at": "2026-10-29T07:57:21.929826+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685131+00:00",
     "ipo_type": null,
     "max_units": 10000,
     "min_units": 10,
@@ -362,7 +362,7 @@
   {
     "closing_date": null,
     "company_name": "Suryakunda Hydro Electric Limited",
-    "fetched_at": "2026-10-29T07:57:21.929883+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685177+00:00",
     "ipo_type": null,
     "max_units": 50000,
     "min_units": 10,
@@ -377,7 +377,7 @@
   {
     "closing_date": null,
     "company_name": "Super Khudi Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929863+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685163+00:00",
     "ipo_type": null,
     "max_units": 100000,
     "min_units": 10,
@@ -392,7 +392,7 @@
   {
     "closing_date": null,
     "company_name": "Snow River Limited",
-    "fetched_at": "2026-10-29T07:57:21.929762+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685075+00:00",
     "ipo_type": null,
     "max_units": 10000,
     "min_units": 10,
@@ -422,7 +422,7 @@
   {
     "closing_date": null,
     "company_name": "Sopan Pharmaceuticals Limited",
-    "fetched_at": "2026-10-29T07:57:21.929757+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685070+00:00",
     "ipo_type": null,
     "max_units": 11000,
     "min_units": 10,
@@ -437,7 +437,7 @@
   {
     "closing_date": null,
     "company_name": "Taksar Pikhuwa Khola Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929820+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685124+00:00",
     "ipo_type": null,
     "max_units": 50000,
     "min_units": 10,
@@ -452,7 +452,7 @@
   {
     "closing_date": null,
     "company_name": "Yambaling Hydropower Limited",
-    "fetched_at": "2026-10-29T07:57:21.929788+00:00",
+    "fetched_at": "2026-10-29T14:59:46.685095+00:00",
     "ipo_type": null,
     "max_units": 21000,
     "min_units": 10,
